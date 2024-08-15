@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""contains function module"""
 import math
 
 
