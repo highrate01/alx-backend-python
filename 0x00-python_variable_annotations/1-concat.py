@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Module containing a function to return concatenated string"""
 
+
 def concat(str1: str, str2: str) -> str:
     """
     takes two strings as args and return concatenated string
